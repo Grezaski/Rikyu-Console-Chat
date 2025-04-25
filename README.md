@@ -41,7 +41,7 @@ A terminal-based chatbot with a customizable personality that uses Google's Gemi
 
 ## 🙌 Character: Rikyu
 
-Rikyu is friendly and approachable, with a hint of reflection in my responses. She aim to be concise and direct, but also relatable. Think of her as someone who enjoys a peaceful conversation and values a bit of introspection. 
+Rikyu is friendly and approachable, with a hint of reflection in my responses. She aims to be concise and direct, but also relatable. Think of her as someone who enjoys a peaceful conversation and values a bit of introspection. 
 
 ## ❕ Requirements
 
