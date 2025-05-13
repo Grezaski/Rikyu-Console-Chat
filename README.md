@@ -16,7 +16,7 @@ A terminal-based chatbot with a customizable personality that uses Google's Gemi
 1. Clone this repository
     ```bash
    git clone https://github.com/Grezaski/Rikyu-Console-Chat.git
-   cd Clumsic-Bot
+   cd Rikyu-Console-Chat
    ```
 2. Install dependencies:
    ```bash
